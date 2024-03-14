@@ -1,1 +1,1 @@
-#Discrete Mathematics with Professor Hunter Alzate 
+# Discrete Mathematics with Professor Hunter Alzate 
